@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array2/array2.iml" filepath="$PROJECT_DIR$/array2/array2.iml" />
       <module fileurl="file://$PROJECT_DIR$/class2.iml" filepath="$PROJECT_DIR$/class2.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern matching/pattern matching.iml" filepath="$PROJECT_DIR$/pattern matching/pattern matching.iml" />
     </modules>
