@@ -1,8 +1,8 @@
 import java.util.Arrays;
 public class CheckEqual {
     static void main(String[] args) {
-        int[]  a = {1,2,3,4,5,6,7,8,9,10};
-        int[]  b = {1,2,3,4,5,6,7,8,10};
+        int[]  a = {1,8,3,4,10,6,7,2,9,5};
+        int[]  b = {4,2,7,1,8,6,7,5,9,10};
 
         System.out.println(equal(a,b));
     }
