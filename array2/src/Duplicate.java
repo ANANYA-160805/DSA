@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
+import java.util.Scanner;
 public class Duplicate {
 }
