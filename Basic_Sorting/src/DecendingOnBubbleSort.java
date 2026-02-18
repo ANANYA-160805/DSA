@@ -4,15 +4,12 @@ public class DecendingOnBubbleSort {
     public static void main(String[] args) {
         int[] arr={9 ,10, 11 ,1 ,26, 38};
         int n=arr.length;
+        System.out.println("Before Sorting:");
+        System.out.println(Arrays.toString(arr));
 
-        for(int ele:arr){
-            System.out.print(ele+" ");
-        }
-        System.out.println();
         printArray(arr, n);
-        for(int ele:arr){
-            System.out.print(ele+" ");
-        }
+        System.out.println("After Sorting:");
+        System.out.println(Arrays.toString(arr));
     }
     public static void printArray(int[] arr, int n){
 
