@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basic_Sorting/Basic_sSorting.iml" filepath="$PROJECT_DIR$/Basic_Sorting/Basic_sSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/array2/array2.iml" filepath="$PROJECT_DIR$/array2/array2.iml" />
       <module fileurl="file://$PROJECT_DIR$/class2.iml" filepath="$PROJECT_DIR$/class2.iml" />
