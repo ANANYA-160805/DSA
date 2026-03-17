@@ -10,6 +10,7 @@ public class PascalsTriangle {
     }
 
         public List<List<Integer>> generate(int n) {
+//        pascal triangle
             List<List<Integer>> ans = new ArrayList<>();
             for(int i=0; i<n; i++){
                 ans.add( new ArrayList<>());
