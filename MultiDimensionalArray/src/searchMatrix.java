@@ -1,6 +1,4 @@
 public class searchMatrix {
-
-    // Function to search element in matrix
     public boolean searchMatrix(int[][] arr, int target) {
         int m = arr.length;
         int n = arr[0].length;
@@ -19,8 +17,6 @@ public class searchMatrix {
         }
         return false;
     }
-
-    // Main method
     public static void main(String[] args) {
 
         int[][] arr = {
@@ -34,11 +30,6 @@ public class searchMatrix {
 
         searchMatrix obj = new searchMatrix();
         boolean result = obj.searchMatrix(arr, target);
-
-        if (result) {
-            System.out.println("Element found");
-        } else {
-            System.out.println("Element not found");
-        }
+        System.out.println(result);
     }
 }
