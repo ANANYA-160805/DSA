@@ -1,3 +1,4 @@
+//        power a ^b
 import java.util.Scanner;
     public class Power {
         public static void main(String[] args) {
@@ -26,6 +27,7 @@ import java.util.Scanner;
                 return x*call*call;
             }
         }
+
     }
 
 
