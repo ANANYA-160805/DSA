@@ -1,12 +1,14 @@
-public class InsertAtIndex {
-    static class Node {
-        int data;
-        Node next;
+ class Node {
+    int data;
+    Node next;
 
-        Node(int d) {
-            data = d;
-        }
+    Node(int d) {
+        data = d;
     }
+}
+
+public class InsertAtIndex {
+
 
     static class LinkedList {
         int size=0;
